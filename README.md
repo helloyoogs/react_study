@@ -1,4 +1,4 @@
-## Part 1 : 블로그 제작 & 기초 문법
+### Part 1 : 블로그 제작 & 기초 문법
 
 ##### [2강	리액트 React 설치와 개발환경 셋팅 2022ver](https://github.com/helloyoogs/react_study/blob/main/파트1.txt)
 ##### [3강	리액트에서 레이아웃 만들 때 쓰는 JSX 문법 3개](https://github.com/helloyoogs/react_study/blob/main/파트1.txt)
@@ -15,7 +15,7 @@
 ##### [14강	class를 이용한 옛날 React 문법](https://github.com/helloyoogs/react_study/blob/main/파트1.txt)
 ##### [15강	만든 리액트 사이트 build & Github Pages로 배포해보기](https://codingapple.com/unit/react-build-deploy-github-pages/)
 
-## Part 2 : 쇼핑몰 프로젝트
+### Part 2 : 쇼핑몰 프로젝트
 
 ##### [1강	새로운 프로젝트 생성 & Bootstrap 사용하기](https://github.com/helloyoogs/react_study/blob/main/파트2-1.txt)
 ##### [2강	이미지 넣는 법 & public 폴더 이용하기](https://github.com/helloyoogs/react_study/blob/main/파트2-1.txt)
