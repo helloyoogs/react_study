@@ -13,7 +13,7 @@
 #### [12강	input 1 : 사용자가 입력한 글 다루기](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
 #### [13강	input 다루기 2 : 블로그 글발행 기능 만들기](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
 #### [14강	class를 이용한 옛날 React 문법](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
-#### [15강	만든 리액트 사이트 build & Github Pages로 배포해보기](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
+#### [15강	만든 리액트 사이트 build & Github Pages로 배포해보기](https://codingapple.com/unit/react-build-deploy-github-pages/)
 
 ## Part 2 : 쇼핑몰 프로젝트
 
