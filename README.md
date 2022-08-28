@@ -1,6 +1,6 @@
 ## Part 1 : 블로그 제작 & 기초 문법
 
-[2강	리액트 React 설치와 개발환경 셋팅](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt.txt)
+[2강	리액트 React 설치와 개발환경 셋팅](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
 [3강	리액트에서 레이아웃 만들 때 쓰는 JSX 문법 3개](https://github.com/helloyoogs/react_study/blob/main/파트1 리액트 공부.txt.txt)
 [4강	중요한 데이터는 변수말고 state에 담습니다]
 (https://github.com/helloyoogs/react_study/blob/main/%ED%8C%8C%ED%8A%B81%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B3%B5%EB%B6%80.txt)
