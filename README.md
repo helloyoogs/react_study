@@ -2,7 +2,7 @@
 
 [2강	리액트 React 설치와 개발환경 셋팅 2022ver](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
 [3강	리액트에서 레이아웃 만들 때 쓰는 JSX 문법 3개](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
-[4강	중요한 데이터는 변수말고 state에 담습니다]
+[4강	중요한 데이터는 변수말고 state에 담습니다](https://github.com/helloyoogs/react_study/blob/main/파트1_리액트.txt)
 [5강	버튼에 기능개발을 해보자 & 리액트 state변경하는 법
 [6강	array, object state 변경하는 법
 [7강	Component : 많은 div들을 한 단어로 줄이고 싶으면
